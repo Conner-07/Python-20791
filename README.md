@@ -10,7 +10,7 @@ This progam takes hard coded variables as the input
 
 What is the expected out put of the program?
 
-The temperatures converted from the hard coded input to the converted 
+The temperatures converted from the hard coded input to the desired converted out put
 
 What type of execution is included in your program?
 
